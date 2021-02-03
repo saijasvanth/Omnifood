@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>My blog</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+	<div class="container">
+	<div class="blog-post">
+		<h1>My first blog</h1>
+		<p class="date">March 30,2020</p>
+<h2>this is test heading</h2>
+<p calss="main-text">
+<strong>Lorem Ipsum</strong> is simply dummy text of the printing and <em>typesetting industry</em>. <u>Lorem Ipsum</u> has been the industry's standard dummy text ever since the 1500s,when an unknown printer took a galley of type and scrambled it to make a type specimen book.<br> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.<br> It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+</p>
+
+<a href="hppt://www.udemy.com" target="_blank"> Link to Udemy website</a><br>
+<a href="logo.jpg" target="_blank"> HTML logo </a>
+
+<h2>My new page</h2>
+
+<p class="main-text">
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+</p>
+<img src="logo.jpg" alt="This is a html image">
+</div>
+
+<div class="other-post">
+	<div class="other">
+	this is the first other blog post.
+</div>
+	<div class="other">
+	this is the second other blog post.
+</div>
+	<div class="other">
+	this is the third other blog post.
+</div>
+</div>
+
+<div class="clearfix"></div>
+<div class="author-box">
+	<img src="author.jpg" alt="AUthor">
+	<p id="Author-text">Author paragraph</p>
+</div>
+	</div>
+
+
+</body>
+
+</html>
